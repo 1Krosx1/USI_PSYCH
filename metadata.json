@@ -1,0 +1,6 @@
+{
+  "name": "Association of Psychology Students",
+  "description": "Official portal for the Association of Psychology Students, featuring financial transparency, merch shop, and event updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
